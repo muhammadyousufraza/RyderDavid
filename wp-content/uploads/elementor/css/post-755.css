@@ -1,0 +1,103 @@
+.elementor-755 .elementor-element.elementor-element-9604040{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-top:80px;--padding-bottom:80px;--padding-left:0px;--padding-right:0px;}.elementor-755 .elementor-element.elementor-element-9604040:not(.elementor-motion-effects-element-type-background), .elementor-755 .elementor-element.elementor-element-9604040 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#1D75BD;}.elementor-755 .elementor-element.elementor-element-9604040, .elementor-755 .elementor-element.elementor-element-9604040::before{--border-transition:0.3s;}.elementor-755 .elementor-element.elementor-element-2b3b16c{text-align:center;}.elementor-755 .elementor-element.elementor-element-2b3b16c .elementor-heading-title{color:#FFFFFF;font-family:"BeatriceTRIAL", Sans-serif;font-size:40px;font-weight:700;}.elementor-755 .elementor-element.elementor-element-4e82f24{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-755 .elementor-element.elementor-element-6796f1f{--display:flex;--background-transition:0.3s;}.elementor-755 .elementor-element.elementor-element-a46f1b0{--grid-columns:1;}.elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination{text-align:center;}.elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination .page-numbers:not(.dots){color:#000000;}.elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination a.page-numbers:hover{color:#1D75BD;}.elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination .page-numbers.current{color:#1D75BD;}body:not(.rtl) .elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-755 .elementor-element.elementor-element-a46f1b0 .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}@media(max-width:1024px){.elementor-755 .elementor-element.elementor-element-a46f1b0{--grid-columns:1;}}@media(max-width:767px){.elementor-755 .elementor-element.elementor-element-a46f1b0{--grid-columns:1;}}/* Start custom CSS */.premium-blog-post-container.premium-blog-skin-side {
+    display: flex;
+    flex-direction: row-reverse;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Semibold-BF64829e8a9fb34-1.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-BoldItalic-BF64829e8b4c698.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Bold-BF64829e8b48b16.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-ThinItalic-BF64829e8d5d50c.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Thin-BF64829e8b08524.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-SemiboldItalic-BF64829e8ed91f7.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Semibold-BF64829e8f17d4c.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Medium-BF64829e8ac35f2.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-MediumItalic-BF64829e8adc249.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Regular-BF64829e8a62240.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-RegularItalic-BF64829e8a730a3.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Thin-BF64829e89d34f8.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-ThinItalic-BF64829e8d22ad1.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BeatriceTRIAL';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://redcraftmedia.net/ryder/wp-content/uploads/2024/05/BeatriceTRIAL-Light-BF64829e8b17e87.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
